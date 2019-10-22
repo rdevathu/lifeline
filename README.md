@@ -20,3 +20,21 @@ This project makes use of just a few major components which include:
 - Multiple non-function parts
   - All these parts are mounted on a vest which contains two load plates. The first load plate gives the user a comfortable place to rest and push with their hands and the second redistributes the load once it passes through the load cell. 
   
+
+![Defining the Problem](/images/Lifeline (2).png)
+![CPR Stats](/images/Lifeline (3).png)
+![Graph](/images/Lifeline (4).png)
+![Survey](/images/Lifeline (5).png)
+![Graphic](/images/Lifeline (6).png)
+![Objectives](/images/Lifeline (7).png)
+![CurrentPrototype](/images/Lifeline (8).png)
+![DevProcess](/images/Lifeline (9).png)
+![Design](/images/Lifeline (10).png)
+![STLs](/images/Lifeline (11).png)
+![Electronics](/images/Lifeline (12).png)
+![Connections](/images/Lifeline (13).png)
+![Workflow](/images/Lifeline (14).png)
+![WorkflowDiagram](/images/Lifeline (15).png)
+![Highlights](/images/Lifeline (16).png)
+![Future](/images/Lifeline (17).png)
+![Refs](/images/Lifeline (1).png)
