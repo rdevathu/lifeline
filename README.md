@@ -17,3 +17,5 @@ This project makes use of just a few major components which include:
   - Allows for wireless operation of the device and storage for longer periods. Also allows for greater portability
 - Multiple non-function parts
   - All these parts are mounted on a vest which contains two load plates. The first load plate gives the user a comfortable place to rest and push with their hands and the second redistributes the load once it passes through the load cell. 
+  
+ <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpxHpQvRrUh07CD6Pvdy7JGcm_hfRAr_roBioCpNSpVWZfkMrOLjLy03g9Fm9kpVVsAWYmcnq_PBnH/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
